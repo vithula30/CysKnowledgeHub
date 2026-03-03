@@ -13,6 +13,7 @@ import StudentsPage from './components/StudentsPage';
 import FacultyPage from './components/FacultyPage';
 import InterviewExperiencesPage from './components/InterviewExperiencesPage';
 import DepartmentGallery from './components/galleries/DepartmentGallery';
+import EventsGallery from './components/galleries/EventsGallery';
 import CTFWriteupsPage from './components/CTFWriteupsPage';
 import AuthorDashboard from './components/AuthorDashboard';
 import AdminDashboard from './components/AdminDashboard';
@@ -803,3 +804,4 @@ const App: React.FC = () => (
 );
 
 export default App;
+  
